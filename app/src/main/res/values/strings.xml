@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Patients Medical History</string>
+    <string name="app_name_OTP">OTP</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="we_will_send_you_a_one_time_password_on_this_mobile_number">We will send you a one time password on this mobile number</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="_88">+88-</string>
+    <string name="get_otp">Get OTP</string>
+    <string name="enter_the_otp">Enter the OTP</string>
+    <string name="didn_t_receive_the_otp">Did not receive the OTP?</string>
+    <string name="resend_otp">Resend OTP</string>
+    <string name="verify">Verify</string>
+</resources>

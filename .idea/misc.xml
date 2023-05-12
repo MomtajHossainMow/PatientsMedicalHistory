@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/3-2 Semester Final/Application Development/PatientsMedicalHistory/app/src/main/res/layout/activity_patient_login.xml" value="0.1852355072463768" />
+        <entry key="..\:/3-2 Semester Final/Application Development/PatientsMedicalHistory/app/src/main/res/layout/activity_patient_panel.xml" value="0.22" />
+        <entry key="..\:/3-2 Semester Final/Application Development/PatientsMedicalHistory/app/src/main/res/layout/activity_sign_up_of_patient.xml" value="0.1897644927536232" />
+        <entry key="..\:/3-2 Semester Final/Application Development/PatientsMedicalHistory/app/src/main/res/layout/activity_sign_up_of_staff.xml" value="0.1897644927536232" />
+        <entry key="..\:/3-2 Semester Final/Application Development/PatientsMedicalHistory/app/src/main/res/layout/activity_staff_login.xml" value="0.1852355072463768" />
+        <entry key="..\:/3-2 Semester Final/Application Development/PatientsMedicalHistory/app/src/main/res/layout/activity_staff_panel.xml" value="0.25" />
+        <entry key="..\:/Android Project/PatientsMedicalHistory/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.124" />
+        <entry key="..\:/Android Project/PatientsMedicalHistory/app/src/main/res/drawable/background_button.xml" value="0.1625" />
+        <entry key="..\:/Android Project/PatientsMedicalHistory/app/src/main/res/drawable/ic_launcher_background.xml" value="0.124" />
+        <entry key="..\:/Android Project/PatientsMedicalHistory/app/src/main/res/layout/activity_admin_control_admin.xml" value="0.22056159420289856" />
+        <entry key="..\:/Android Project/PatientsMedicalHistory/app/src/main/res/layout/activity_admin_control_doctor.xml" value="0.22056159420289856" />
+        <entry key="..\:/Android Project/PatientsMedicalHistory/app/src/main/res/layout/activity_admin_control_patient.xml" value="0.22056159420289856" />
+        <entry key="..\:/Android Project/PatientsMedicalHistory/app/src/main/res/layout/activity_admin_control_staff.xml" value="0.22056159420289856" />
+        <entry key="..\:/Android Project/PatientsMedicalHistory/app/src/main/res/layout/activity_admin_id_to_modify.xml" value="0.12395833333333334" />
+        <entry key="..\:/Android Project/PatientsMedicalHistory/app/src/main/res/layout/activity_admin_list.xml" value="0.22056159420289856" />
+        <entry key="..\:/Android Project/PatientsMedicalHistory/app/src/main/res/layout/activity_admin_login.xml" value="0.15896739130434784" />
+        <entry key="..\:/Android Project/PatientsMedicalHistory/app/src/main/res/layout/activity_admin_panel.xml" value="0.1621376811594203" />
+        <entry key="..\:/Android Project/PatientsMedicalHistory/app/src/main/res/layout/activity_admin_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Project/PatientsMedicalHistory/app/src/main/res/layout/activity_appointment_list_did.xml" value="0.2341485507246377" />
+        <entry key="..\:/Android Project/PatientsMedicalHistory/app/src/main/res/layout/activity_appointment_list_pid.xml" value="0.21693840579710144" />
+        <entry key="..\:/Android Project/PatientsMedicalHistory/app/src/main/res/layout/activity_check_health_record.xml" value="0.22056159420289856" />
+        <entry key="..\:/Android Project/PatientsMedicalHistory/app/src/main/res/layout/activity_doctor_id_to_modify.xml" value="0.10989583333333333" />
+        <entry key="..\:/Android Project/PatientsMedicalHistory/app/src/main/res/layout/activity_doctor_login.xml" value="0.15896739130434784" />
+        <entry key="..\:/Android Project/PatientsMedicalHistory/app/src/main/res/layout/activity_doctor_panel.xml" value="0.1621376811594203" />
+        <entry key="..\:/Android Project/PatientsMedicalHistory/app/src/main/res/layout/activity_doctor_profile.xml" value="0.22056159420289856" />
+        <entry key="..\:/Android Project/PatientsMedicalHistory/app/src/main/res/layout/activity_doctors_list.xml" value="0.4" />
+        <entry key="..\:/Android Project/PatientsMedicalHistory/app/src/main/res/layout/activity_main.xml" value="0.3253012048192771" />
+        <entry key="..\:/Android Project/PatientsMedicalHistory/app/src/main/res/layout/activity_modify_admins_data.xml" value="0.2341485507246377" />
+        <entry key="..\:/Android Project/PatientsMedicalHistory/app/src/main/res/layout/activity_modify_doctors_data.xml" value="0.10989583333333333" />
+        <entry key="..\:/Android Project/PatientsMedicalHistory/app/src/main/res/layout/activity_patient_login.xml" value="0.264" />
+        <entry key="..\:/Android Project/PatientsMedicalHistory/app/src/main/res/layout/activity_patient_panel.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Project/PatientsMedicalHistory/app/src/main/res/layout/activity_patient_profile.xml" value="0.21693840579710144" />
+        <entry key="..\:/Android Project/PatientsMedicalHistory/app/src/main/res/layout/activity_prescription.xml" value="0.16632513661202186" />
+        <entry key="..\:/Android Project/PatientsMedicalHistory/app/src/main/res/layout/activity_prescription_list.xml" value="0.22056159420289856" />
+        <entry key="..\:/Android Project/PatientsMedicalHistory/app/src/main/res/layout/activity_send_otpactivity.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Project/PatientsMedicalHistory/app/src/main/res/layout/activity_set_appointment.xml" value="0.22056159420289856" />
+        <entry key="..\:/Android Project/PatientsMedicalHistory/app/src/main/res/layout/activity_sign_up_of_admin.xml" value="0.22056159420289856" />
+        <entry key="..\:/Android Project/PatientsMedicalHistory/app/src/main/res/layout/activity_sign_up_of_doctor.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Project/PatientsMedicalHistory/app/src/main/res/layout/activity_sign_up_of_patient.xml" value="0.264" />
+        <entry key="..\:/Android Project/PatientsMedicalHistory/app/src/main/res/layout/activity_sign_up_of_staff.xml" value="0.264" />
+        <entry key="..\:/Android Project/PatientsMedicalHistory/app/src/main/res/layout/activity_staff_login.xml" value="0.21666666666666667" />
+        <entry key="..\:/Android Project/PatientsMedicalHistory/app/src/main/res/layout/activity_staff_panel.xml" value="0.24010416666666667" />
+        <entry key="..\:/Android Project/PatientsMedicalHistory/app/src/main/res/layout/activity_staff_profile.xml" value="0.213768115942029" />
+        <entry key="..\:/Android Project/PatientsMedicalHistory/app/src/main/res/layout/activity_staff_sign_up.xml" value="0.11302083333333333" />
+        <entry key="..\:/Android Project/PatientsMedicalHistory/app/src/main/res/layout/activity_verify_otpactivity.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Project/PatientsMedicalHistory/app/src/main/res/layout/item.xml" value="0.2151268115942029" />
+        <entry key="..\:/Android Project/PatientsMedicalHistory/app/src/main/res/layout/item_admin.xml" value="0.2" />
+        <entry key="..\:/Android Project/PatientsMedicalHistory/app/src/main/res/layout/item_appointment_did.xml" value="0.2341485507246377" />
+        <entry key="..\:/Android Project/PatientsMedicalHistory/app/src/main/res/layout/item_appointment_pid.xml" value="0.21693840579710144" />
+        <entry key="..\:/Android Project/PatientsMedicalHistory/app/src/main/res/layout/item_prescription_cv.xml" value="0.22056159420289856" />
+        <entry key="..\:/Android Project/PatientsMedicalHistory/app/src/main/res/menu/searchmenu.xml" value="0.25" />
+        <entry key="..\:/Android Project/PatientsMedicalHistory/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.124" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

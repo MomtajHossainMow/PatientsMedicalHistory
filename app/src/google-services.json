@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "234237761892",
+    "firebase_url": "https://medi-history-default-rtdb.firebaseio.com",
+    "project_id": "medi-history",
+    "storage_bucket": "medi-history.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234237761892:android:90a80edfd7e3ca65ebc271",
+        "android_client_info": {
+          "package_name": "com.example.patientsmedicalhistory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234237761892-l4fi4on4r1pfiht12k6p317250shsngo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaJ-Q8LLBUFw5LJrirAFyC2UD1oCxwtlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234237761892-l4fi4on4r1pfiht12k6p317250shsngo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

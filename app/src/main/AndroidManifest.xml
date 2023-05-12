@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.patientsmedicalhistory">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.PatientsMedicalHistory"
+        tools:targetApi="31">
+        <activity
+            android:name=".Modify_Doctors_Data"
+            android:exported="false" />
+        <activity
+            android:name=".DoctorID_To_Modify"
+            android:exported="false" />
+        <activity
+            android:name=".AdminID_To_Modify"
+            android:exported="false" />
+        <activity
+            android:name=".Appointment_List_PID"
+            android:exported="false" />
+        <activity
+            android:name=".Patient_Profile"
+            android:exported="false" />
+        <activity
+            android:name=".Staff_Profile"
+            android:exported="false" />
+        <activity
+            android:name=".Doctor_Profile"
+            android:exported="false" />
+        <activity
+            android:name=".Appointment_List_DID"
+            android:exported="false" />
+        <activity
+            android:name=".CheckHealthRecord"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".PrescriptionList"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".Prescription"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".Modify_Admins_Data"
+            android:exported="false" />
+        <activity
+            android:name=".Admin_List"
+            android:exported="false" />
+        <activity
+            android:name=".Doctors_List"
+            android:exported="false" />
+        <activity
+            android:name=".Set_Appointment"
+            android:exported="false" />
+        <activity
+            android:name=".Admin_Profile"
+            android:exported="false" />
+        <activity
+            android:name=".Admin_Control_Doctor"
+            android:exported="false" />
+        <activity
+            android:name=".Admin_Control_Staff"
+            android:exported="false" />
+        <activity
+            android:name=".Admin_Control_Admin"
+            android:exported="false" />
+        <activity
+            android:name=".Admin_control_Patient"
+            android:exported="false" />
+        <activity
+            android:name=".VerifyOTPActivity"
+            android:exported="false"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".SendOTPActivity"
+            android:exported="false"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".SignUp_of_Admin"
+            android:exported="false" />
+        <activity
+            android:name=".Admin_Panel"
+            android:exported="false" />
+        <activity
+            android:name=".Doctor_Panel"
+            android:exported="false" />
+        <activity
+            android:name=".SignUp_of_Doctor"
+            android:exported="false" />
+        <activity
+            android:name=".PatientPanel"
+            android:exported="false" />
+        <activity
+            android:name=".SignUpOfPatient"
+            android:exported="false" />
+        <activity
+            android:name=".Staff_Panel"
+            android:exported="false" />
+        <activity
+            android:name=".SignUp_of_Staff"
+            android:exported="false" />
+        <activity
+            android:name=".Doctor_Login"
+            android:exported="false" />
+        <activity
+            android:name=".Patient_Login"
+            android:exported="false" />
+        <activity
+            android:name=".Staff_Login"
+            android:exported="false" />
+        <activity
+            android:name=".Admin_Login"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
